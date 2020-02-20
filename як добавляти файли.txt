@@ -1,0 +1,30 @@
+Добавлення файлу:
+pdf файл закинути в папку lecs(назва файлу бажано без пробілів)
+Внести зміни в коді добавивши лекцію там
+обновити сайт через консоль
+
+
+Робота з консоллю:
+Права клавіша мишки по пустому місцю в папці 
+
+Вибрати кнопку git bash here
+
+По черзі вводити в консоль команди
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/dimafigur/dimafigur.github.io.git
+git push -u origin master
+
+Дані на сайті оновлено
+
+
+Файли які потрібно редагувати:
+econ.html - Економічна теорія
+geo.html - Географія
+tech.html - Технології
+zach.html - Захист вітчизни
+
+
+
+
