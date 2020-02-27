@@ -19,7 +19,7 @@ body {
     color: #ecf0f1;
   }
   .content__container {
-    font-weight: 600;
+    font-weight: 500;
     overflow: hidden;
     height: 40px;
     padding: 0 40px;
@@ -40,10 +40,10 @@ body {
     font-size: 42px;
     line-height: 40px;
     -webkit-animation-name: opacity;
-    -webkit-animation-duration: 2s;
+    -webkit-animation-duration: 4s;
     -webkit-animation-iteration-count: infinite;
     animation-name: opacity;
-    animation-duration: 2s;
+    animation-duration: 4s;
     animation-iteration-count: infinite;
   }
   .content__container__text {
@@ -53,14 +53,14 @@ body {
   }
   .content__container__list {
     margin-top: 0;
-    padding-left: 170px;
-    text-align: left;
+    padding-left: 149px;
+    text-align: inherit;
     list-style: none;
     -webkit-animation-name: change;
-    -webkit-animation-duration: 10s;
+    -webkit-animation-duration: 20s;
     -webkit-animation-iteration-count: infinite;
     animation-name: change;
-    animation-duration: 10s;
+    animation-duration: 20s;
     animation-iteration-count: infinite;
   }
   .content__container__list__item {
